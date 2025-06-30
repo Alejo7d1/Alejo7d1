@@ -20,6 +20,6 @@ Spanish / Improving my English skills
 - Develop personal projects
 
 # Contact
-**LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/alejandro-orellana-a87948338/)
+**LinkedIn:** https://www.linkedin.com/in/alejandro-orellana-a87948338/
 
 
