@@ -1,16 +1,25 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Alejo7d1/Alejo7d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a focus on backend development and software design. I have hands-on experience with Java and its frameworks, and I'm currently expanding my skills into web development.
 
-Here are some ideas to get you started:
+I'm particularly interested in creating well-structured applications and learning how systems work at both the software and database level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spanish / Improving my English skills
+
+# Skills
+
+- **Java** – Spring Boot, JavaFX, Gradle
+- **C++** – Basic knowledge of syntax and logic
+- **SQL** – Database modeling and basic query management
+- **HTML & CSS** – Currently learning
+
+# Learning Goals
+
+- Improve my database query skills
+- Learn JavaScript and frontend development concepts
+- Develop personal projects
+
+# Contact
+**LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/alejandro-orellana-a87948338/)
+
+
